@@ -3,13 +3,11 @@
   "features" : [ {
     "type" : "Feature",
     "id" : 2096902,
-    "timestamp" : "2015-11-12 00:22:02+01",
     "rpath" : [ "2096902", "192785", "0" ],
     "properties" : {
       "id" : 2096902,
       "name" : "Tombouctou",
       "localname" : "Tombouctou",
-      "timestamp" : "2015-11-12 00:22:02+01",
       "SRID" : "4326",
       "admin_level" : 4,
       "rpath" : [ "2096902", "192785", "0" ],
@@ -33,13 +31,11 @@
   }, {
     "type" : "Feature",
     "id" : 3079410,
-    "timestamp" : "2015-11-12 00:22:02+01",
     "rpath" : [ "3079410", "2096902", "192785", "0" ],
     "properties" : {
       "id" : 3079410,
       "name" : "Diré Cercle",
       "localname" : "Cercle de Diré",
-      "timestamp" : "2015-11-12 00:22:02+01",
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3079410", "2096902", "192785", "0" ],
@@ -60,13 +56,11 @@
   }, {
     "type" : "Feature",
     "id" : 3079411,
-    "timestamp" : "2015-11-12 00:22:02+01",
     "rpath" : [ "3079411", "2096902", "192785", "0" ],
     "properties" : {
       "id" : 3079411,
       "name" : "Goundam Cercle",
       "localname" : "Cercle de Goundam",
-      "timestamp" : "2015-11-12 00:22:02+01",
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3079411", "2096902", "192785", "0" ],
@@ -87,13 +81,11 @@
   }, {
     "type" : "Feature",
     "id" : 3079414,
-    "timestamp" : "2015-11-12 00:22:02+01",
     "rpath" : [ "3079414", "2096902", "192785", "0" ],
     "properties" : {
       "id" : 3079414,
       "name" : "Gourma-Rharous Cercle",
       "localname" : "Cercle Gourma-Rharous",
-      "timestamp" : "2015-11-12 00:22:02+01",
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3079414", "2096902", "192785", "0" ],
@@ -114,13 +106,11 @@
   }, {
     "type" : "Feature",
     "id" : 3079412,
-    "timestamp" : "2015-11-12 00:22:02+01",
     "rpath" : [ "3079412", "2096902", "192785", "0" ],
     "properties" : {
       "id" : 3079412,
       "name" : "Niafounké Cercle",
       "localname" : "Cercle de Niafounké",
-      "timestamp" : "2015-11-12 00:22:02+01",
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3079412", "2096902", "192785", "0" ],
@@ -141,13 +131,11 @@
   }, {
     "type" : "Feature",
     "id" : 3079413,
-    "timestamp" : "2015-11-12 00:22:02+01",
     "rpath" : [ "3079413", "2096902", "192785", "0" ],
     "properties" : {
       "id" : 3079413,
       "name" : "Tombouctou Cercle",
       "localname" : "Cercle de Tombouctou",
-      "timestamp" : "2015-11-12 00:22:02+01",
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3079413", "2096902", "192785", "0" ],

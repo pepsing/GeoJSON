@@ -3,13 +3,13 @@
   "features" : [ {
     "type" : "Feature",
     "id" : 2096895,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "2096895", "192785", "0" ],
     "properties" : {
       "id" : 2096895,
       "name" : "Gao",
       "localname" : "Gao",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 4,
       "rpath" : [ "2096895", "192785", "0" ],
@@ -32,13 +32,13 @@
   }, {
     "type" : "Feature",
     "id" : 3079150,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3079150", "2096895", "192785", "0" ],
     "properties" : {
       "id" : 3079150,
       "name" : "Ansongo Cercle",
       "localname" : "Cercle d'Ansongo",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3079150", "2096895", "192785", "0" ],
@@ -59,13 +59,13 @@
   }, {
     "type" : "Feature",
     "id" : 3079151,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3079151", "2096895", "192785", "0" ],
     "properties" : {
       "id" : 3079151,
       "name" : "Bourem Cercle",
       "localname" : "Cercle de Bourem",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3079151", "2096895", "192785", "0" ],
@@ -86,13 +86,13 @@
   }, {
     "type" : "Feature",
     "id" : 3079152,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3079152", "2096895", "192785", "0" ],
     "properties" : {
       "id" : 3079152,
       "name" : "Gao Cercle",
       "localname" : "Cercle de Gao",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3079152", "2096895", "192785", "0" ],
@@ -113,13 +113,13 @@
   }, {
     "type" : "Feature",
     "id" : 3079153,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3079153", "2096895", "192785", "0" ],
     "properties" : {
       "id" : 3079153,
       "name" : "Ménaka Cercle",
       "localname" : "Cercle de Ménaka",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3079153", "2096895", "192785", "0" ],

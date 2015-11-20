@@ -3,13 +3,13 @@
   "features" : [ {
     "type" : "Feature",
     "id" : 2096899,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "2096899", "192785", "0" ],
     "properties" : {
       "id" : 2096899,
       "name" : "Mopti",
       "localname" : "Mopti",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 4,
       "rpath" : [ "2096899", "192785", "0" ],
@@ -32,13 +32,13 @@
   }, {
     "type" : "Feature",
     "id" : 3084278,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3084278", "2096899", "192785", "0" ],
     "properties" : {
       "id" : 3084278,
       "name" : "Bandiagara Cercle",
       "localname" : "Cercle de Bandiagara",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3084278", "2096899", "192785", "0" ],
@@ -61,13 +61,13 @@
   }, {
     "type" : "Feature",
     "id" : 3084279,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3084279", "2096899", "192785", "0" ],
     "properties" : {
       "id" : 3084279,
       "name" : "Bankass Cercle",
       "localname" : "Cercle de Bankass",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3084279", "2096899", "192785", "0" ],
@@ -90,13 +90,13 @@
   }, {
     "type" : "Feature",
     "id" : 3084281,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3084281", "2096899", "192785", "0" ],
     "properties" : {
       "id" : 3084281,
       "name" : "Djenné Cercle",
       "localname" : "Cercle de Djenné",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3084281", "2096899", "192785", "0" ],
@@ -119,13 +119,13 @@
   }, {
     "type" : "Feature",
     "id" : 3084280,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3084280", "2096899", "192785", "0" ],
     "properties" : {
       "id" : 3084280,
       "name" : "Douentza Cercle",
       "localname" : "Cercle de Douentza",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3084280", "2096899", "192785", "0" ],
@@ -148,13 +148,13 @@
   }, {
     "type" : "Feature",
     "id" : 3084282,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3084282", "2096899", "192785", "0" ],
     "properties" : {
       "id" : 3084282,
       "name" : "Koro Cercle",
       "localname" : "Cercle de Koro",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3084282", "2096899", "192785", "0" ],
@@ -177,13 +177,13 @@
   }, {
     "type" : "Feature",
     "id" : 3084283,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3084283", "2096899", "192785", "0" ],
     "properties" : {
       "id" : 3084283,
       "name" : "Mopti Cercle",
       "localname" : "Cercle de Mopti",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3084283", "2096899", "192785", "0" ],
@@ -206,13 +206,13 @@
   }, {
     "type" : "Feature",
     "id" : 3084284,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3084284", "2096899", "192785", "0" ],
     "properties" : {
       "id" : 3084284,
       "name" : "Tenenkou Cercle",
       "localname" : "Cercle de Tenenkou",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3084284", "2096899", "192785", "0" ],
@@ -235,13 +235,13 @@
   }, {
     "type" : "Feature",
     "id" : 3084285,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3084285", "2096899", "192785", "0" ],
     "properties" : {
       "id" : 3084285,
       "name" : "Youwarou Cercle",
       "localname" : "Cercle de Youwarou",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3084285", "2096899", "192785", "0" ],

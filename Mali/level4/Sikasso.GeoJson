@@ -3,13 +3,13 @@
   "features" : [ {
     "type" : "Feature",
     "id" : 2096900,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "2096900", "192785", "0" ],
     "properties" : {
       "id" : 2096900,
       "name" : "Sikasso",
       "localname" : "Sikasso",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 4,
       "rpath" : [ "2096900", "192785", "0" ],
@@ -32,13 +32,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083940,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083940", "2096900", "192785", "0" ],
     "properties" : {
       "id" : 3083940,
       "name" : "Bougouni Cercle",
       "localname" : "Cercle de Bougouni",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083940", "2096900", "192785", "0" ],
@@ -60,13 +60,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083941,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083941", "2096900", "192785", "0" ],
     "properties" : {
       "id" : 3083941,
       "name" : "Kadiolo Cercle",
       "localname" : "Cercle de Kadiolo",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083941", "2096900", "192785", "0" ],
@@ -87,13 +87,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083942,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083942", "2096900", "192785", "0" ],
     "properties" : {
       "id" : 3083942,
       "name" : "Kolondiéba Cercle",
       "localname" : "Cercle de Kolondiéba",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083942", "2096900", "192785", "0" ],
@@ -114,13 +114,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083943,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083943", "2096900", "192785", "0" ],
     "properties" : {
       "id" : 3083943,
       "name" : "Koutiala Cercle",
       "localname" : "Cercle de Koutiala",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083943", "2096900", "192785", "0" ],
@@ -141,13 +141,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083944,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083944", "2096900", "192785", "0" ],
     "properties" : {
       "id" : 3083944,
       "name" : "Sikasso Cercle",
       "localname" : "Cercle de Sikasso",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083944", "2096900", "192785", "0" ],
@@ -168,13 +168,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083945,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083945", "2096900", "192785", "0" ],
     "properties" : {
       "id" : 3083945,
       "name" : "Yanfolila Cercle",
       "localname" : "Cercle de Yanfolila",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083945", "2096900", "192785", "0" ],
@@ -195,13 +195,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083946,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083946", "2096900", "192785", "0" ],
     "properties" : {
       "id" : 3083946,
       "name" : "Yorosso Cercle",
       "localname" : "Cercle de Yorosso",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083946", "2096900", "192785", "0" ],

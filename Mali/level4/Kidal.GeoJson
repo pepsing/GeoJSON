@@ -3,13 +3,13 @@
   "features" : [ {
     "type" : "Feature",
     "id" : 2096897,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "2096897", "192785", "0" ],
     "properties" : {
       "id" : 2096897,
       "name" : "Kidal",
       "localname" : "Kidal",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 4,
       "rpath" : [ "2096897", "192785", "0" ],
@@ -32,13 +32,13 @@
   }, {
     "type" : "Feature",
     "id" : 3078991,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3078991", "2096897", "192785", "0" ],
     "properties" : {
       "id" : 3078991,
       "name" : "Abeïbara Cercle",
       "localname" : "Cercle d'Abeïbara",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3078991", "2096897", "192785", "0" ],
@@ -59,13 +59,13 @@
   }, {
     "type" : "Feature",
     "id" : 3078992,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3078992", "2096897", "192785", "0" ],
     "properties" : {
       "id" : 3078992,
       "name" : "Kidal Cercle",
       "localname" : "Cercle de Kidal",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3078992", "2096897", "192785", "0" ],
@@ -86,13 +86,13 @@
   }, {
     "type" : "Feature",
     "id" : 3078993,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3078993", "2096897", "192785", "0" ],
     "properties" : {
       "id" : 3078993,
       "name" : "Tessalit Cercle",
       "localname" : "Cercle de Tessalit",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3078993", "2096897", "192785", "0" ],
@@ -113,13 +113,13 @@
   }, {
     "type" : "Feature",
     "id" : 3078994,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3078994", "2096897", "192785", "0" ],
     "properties" : {
       "id" : 3078994,
       "name" : "Tin-Essako Cercle",
       "localname" : "Cercle de Tin-Essako",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3078994", "2096897", "192785", "0" ],

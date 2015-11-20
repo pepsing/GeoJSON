@@ -3,13 +3,13 @@
   "features" : [ {
     "type" : "Feature",
     "id" : 2096901,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "2096901", "192785", "0" ],
     "properties" : {
       "id" : 2096901,
       "name" : "Ségou",
       "localname" : "Ségou",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 4,
       "rpath" : [ "2096901", "192785", "0" ],
@@ -32,13 +32,13 @@
   }, {
     "type" : "Feature",
     "id" : 3085044,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3085044", "2096901", "192785", "0" ],
     "properties" : {
       "id" : 3085044,
       "name" : "Baraouéli Cercle",
       "localname" : "Cercle de Baraouéli",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3085044", "2096901", "192785", "0" ],
@@ -59,13 +59,13 @@
   }, {
     "type" : "Feature",
     "id" : 3085045,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3085045", "2096901", "192785", "0" ],
     "properties" : {
       "id" : 3085045,
       "name" : "Bla Cercle",
       "localname" : "Cercle de Bla",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3085045", "2096901", "192785", "0" ],
@@ -86,13 +86,13 @@
   }, {
     "type" : "Feature",
     "id" : 3085046,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3085046", "2096901", "192785", "0" ],
     "properties" : {
       "id" : 3085046,
       "name" : "Macina Cercle",
       "localname" : "Cercle de Macina",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3085046", "2096901", "192785", "0" ],
@@ -113,13 +113,13 @@
   }, {
     "type" : "Feature",
     "id" : 3085047,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3085047", "2096901", "192785", "0" ],
     "properties" : {
       "id" : 3085047,
       "name" : "Niono Cercle",
       "localname" : "Cercle de Niono",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3085047", "2096901", "192785", "0" ],
@@ -140,13 +140,13 @@
   }, {
     "type" : "Feature",
     "id" : 3085048,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3085048", "2096901", "192785", "0" ],
     "properties" : {
       "id" : 3085048,
       "name" : "San Cercle",
       "localname" : "Cercle de San",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3085048", "2096901", "192785", "0" ],
@@ -167,13 +167,13 @@
   }, {
     "type" : "Feature",
     "id" : 3085049,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3085049", "2096901", "192785", "0" ],
     "properties" : {
       "id" : 3085049,
       "name" : "Ségou Cercle",
       "localname" : "Cercle de Ségou",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3085049", "2096901", "192785", "0" ],
@@ -194,13 +194,13 @@
   }, {
     "type" : "Feature",
     "id" : 3085050,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3085050", "2096901", "192785", "0" ],
     "properties" : {
       "id" : 3085050,
       "name" : "Tominian Cercle",
       "localname" : "Cercle de Tominian",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3085050", "2096901", "192785", "0" ],

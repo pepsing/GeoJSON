@@ -3,13 +3,13 @@
   "features" : [ {
     "type" : "Feature",
     "id" : 2096898,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "2096898", "192785", "0" ],
     "properties" : {
       "id" : 2096898,
       "name" : "Koulikoro",
       "localname" : "Koulikoro",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 4,
       "rpath" : [ "2096898", "192785", "0" ],
@@ -33,13 +33,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083889,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083889", "2096898", "192785", "0" ],
     "properties" : {
       "id" : 3083889,
       "name" : "Banamba Cercle",
       "localname" : "Cercle de Banamba",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083889", "2096898", "192785", "0" ],
@@ -60,13 +60,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083890,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083890", "2096898", "192785", "0" ],
     "properties" : {
       "id" : 3083890,
       "name" : "Dioïla Cercle",
       "localname" : "Cercle de Dioïla",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083890", "2096898", "192785", "0" ],
@@ -88,13 +88,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083891,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083891", "2096898", "192785", "0" ],
     "properties" : {
       "id" : 3083891,
       "name" : "Kangaba Cercle",
       "localname" : "Cercle de Kangaba",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083891", "2096898", "192785", "0" ],
@@ -115,13 +115,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083892,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083892", "2096898", "192785", "0" ],
     "properties" : {
       "id" : 3083892,
       "name" : "Kati Cercle",
       "localname" : "Cercle de Kati",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083892", "2096898", "192785", "0" ],
@@ -143,13 +143,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083893,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083893", "2096898", "192785", "0" ],
     "properties" : {
       "id" : 3083893,
       "name" : "Kolokani Cercle",
       "localname" : "Cercle de Kolokani",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083893", "2096898", "192785", "0" ],
@@ -170,13 +170,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083894,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083894", "2096898", "192785", "0" ],
     "properties" : {
       "id" : 3083894,
       "name" : "Koulikoro Cercle",
       "localname" : "Cercle de Koulikoro",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083894", "2096898", "192785", "0" ],
@@ -197,13 +197,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083895,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083895", "2096898", "192785", "0" ],
     "properties" : {
       "id" : 3083895,
       "name" : "Nara Cercle",
       "localname" : "Cercle de Nara",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083895", "2096898", "192785", "0" ],

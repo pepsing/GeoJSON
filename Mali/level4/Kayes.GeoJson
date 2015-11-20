@@ -3,13 +3,13 @@
   "features" : [ {
     "type" : "Feature",
     "id" : 2096896,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "2096896", "192785", "0" ],
     "properties" : {
       "id" : 2096896,
       "name" : "Kayes",
       "localname" : "Kayes",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 4,
       "rpath" : [ "2096896", "192785", "0" ],
@@ -32,13 +32,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083704,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083704", "2096896", "192785", "0" ],
     "properties" : {
       "id" : 3083704,
       "name" : "Bafoulabé Cercle",
       "localname" : "Bafoulabé",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083704", "2096896", "192785", "0" ],
@@ -61,13 +61,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083705,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083705", "2096896", "192785", "0" ],
     "properties" : {
       "id" : 3083705,
       "name" : "Diéma Cercle",
       "localname" : "Diéma",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083705", "2096896", "192785", "0" ],
@@ -90,13 +90,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083706,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083706", "2096896", "192785", "0" ],
     "properties" : {
       "id" : 3083706,
       "name" : "Kayes Cercle",
       "localname" : "Kayes",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083706", "2096896", "192785", "0" ],
@@ -119,13 +119,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083708,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083708", "2096896", "192785", "0" ],
     "properties" : {
       "id" : 3083708,
       "name" : "Kéniéba Cercle",
       "localname" : "Kéniéba",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083708", "2096896", "192785", "0" ],
@@ -148,13 +148,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083707,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083707", "2096896", "192785", "0" ],
     "properties" : {
       "id" : 3083707,
       "name" : "Kita Cercle",
       "localname" : "Kita",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083707", "2096896", "192785", "0" ],
@@ -177,13 +177,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083709,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083709", "2096896", "192785", "0" ],
     "properties" : {
       "id" : 3083709,
       "name" : "Nioro Cercle",
       "localname" : "Nioro",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083709", "2096896", "192785", "0" ],
@@ -206,13 +206,13 @@
   }, {
     "type" : "Feature",
     "id" : 3083710,
-    "timestamp" : "2015-11-12 00:22:02+01",
+    
     "rpath" : [ "3083710", "2096896", "192785", "0" ],
     "properties" : {
       "id" : 3083710,
       "name" : "Yélimané Cercle",
       "localname" : "Yélimané",
-      "timestamp" : "2015-11-12 00:22:02+01",
+      
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083710", "2096896", "192785", "0" ],
