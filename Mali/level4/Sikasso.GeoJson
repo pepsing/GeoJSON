@@ -36,7 +36,7 @@
     "rpath" : [ "3083940", "2096900", "192785", "0" ],
     "properties" : {
       "id" : 3083940,
-      "name" : "Bougouni Cercle",
+      "name" : "Bougouni",
       "localname" : "Cercle de Bougouni",
       
       "SRID" : "4326",
@@ -44,10 +44,10 @@
       "rpath" : [ "3083940", "2096900", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Bougouni",
-        "name:en" : "Bougouni Cercle",
+        "name:en" : "Bougouni",
         "name:fr" : "Cercle de Bougouni",
         "boundary" : "administrative",
-        "wikipedia" : "en:Bougouni Cercle",
+        "wikipedia" : "en:Bougouni",
         "admin_level" : "6"
       }
     },
@@ -64,7 +64,7 @@
     "rpath" : [ "3083941", "2096900", "192785", "0" ],
     "properties" : {
       "id" : 3083941,
-      "name" : "Kadiolo Cercle",
+      "name" : "Kadiolo",
       "localname" : "Cercle de Kadiolo",
       
       "SRID" : "4326",
@@ -72,7 +72,7 @@
       "rpath" : [ "3083941", "2096900", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Kadiolo",
-        "name:en" : "Kadiolo Cercle",
+        "name:en" : "Kadiolo",
         "name:fr" : "Cercle de Kadiolo",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -91,7 +91,7 @@
     "rpath" : [ "3083942", "2096900", "192785", "0" ],
     "properties" : {
       "id" : 3083942,
-      "name" : "Kolondiéba Cercle",
+      "name" : "Kolondieba",
       "localname" : "Cercle de Kolondiéba",
       
       "SRID" : "4326",
@@ -99,7 +99,7 @@
       "rpath" : [ "3083942", "2096900", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Kolondiéba",
-        "name:en" : "Kolondiéba Cercle",
+        "name:en" : "Kolondiéba",
         "name:fr" : "Cercle de Kolondiéba",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -118,7 +118,7 @@
     "rpath" : [ "3083943", "2096900", "192785", "0" ],
     "properties" : {
       "id" : 3083943,
-      "name" : "Koutiala Cercle",
+      "name" : "Koutiala",
       "localname" : "Cercle de Koutiala",
       
       "SRID" : "4326",
@@ -126,7 +126,7 @@
       "rpath" : [ "3083943", "2096900", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Koutiala",
-        "name:en" : "Koutiala Cercle",
+        "name:en" : "Koutiala",
         "name:fr" : "Cercle de Koutiala",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -145,7 +145,7 @@
     "rpath" : [ "3083944", "2096900", "192785", "0" ],
     "properties" : {
       "id" : 3083944,
-      "name" : "Sikasso Cercle",
+      "name" : "Sikasso",
       "localname" : "Cercle de Sikasso",
       
       "SRID" : "4326",
@@ -153,7 +153,7 @@
       "rpath" : [ "3083944", "2096900", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Sikasso",
-        "name:en" : "Sikasso Cercle",
+        "name:en" : "Sikasso",
         "name:fr" : "Cercle de Sikasso",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -172,7 +172,7 @@
     "rpath" : [ "3083945", "2096900", "192785", "0" ],
     "properties" : {
       "id" : 3083945,
-      "name" : "Yanfolila Cercle",
+      "name" : "Yanfolila",
       "localname" : "Cercle de Yanfolila",
       
       "SRID" : "4326",
@@ -180,7 +180,7 @@
       "rpath" : [ "3083945", "2096900", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Yanfolila",
-        "name:en" : "Yanfolila Cercle",
+        "name:en" : "Yanfolila",
         "name:fr" : "Cercle de Yanfolila",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -199,7 +199,7 @@
     "rpath" : [ "3083946", "2096900", "192785", "0" ],
     "properties" : {
       "id" : 3083946,
-      "name" : "Yorosso Cercle",
+      "name" : "Yorosso",
       "localname" : "Cercle de Yorosso",
       
       "SRID" : "4326",
@@ -207,7 +207,7 @@
       "rpath" : [ "3083946", "2096900", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Yorosso",
-        "name:en" : "Yorosso Cercle",
+        "name:en" : "Yorosso",
         "name:fr" : "Cercle de Yorosso",
         "boundary" : "administrative",
         "admin_level" : "6"

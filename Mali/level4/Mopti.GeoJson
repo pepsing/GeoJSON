@@ -36,7 +36,7 @@
     "rpath" : [ "3084278", "2096899", "192785", "0" ],
     "properties" : {
       "id" : 3084278,
-      "name" : "Bandiagara Cercle",
+      "name" : "Bandiagara",
       "localname" : "Cercle de Bandiagara",
       
       "SRID" : "4326",
@@ -44,7 +44,7 @@
       "rpath" : [ "3084278", "2096899", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Bandiagara",
-        "name:en" : "Bandiagara Cercle",
+        "name:en" : "Bandiagara",
         "name:fr" : "Cercle de Bandiagara",
         "boundary" : "administrative",
         "wikipedia" : "fr:Cercle de Bandiagara",
@@ -65,7 +65,7 @@
     "rpath" : [ "3084279", "2096899", "192785", "0" ],
     "properties" : {
       "id" : 3084279,
-      "name" : "Bankass Cercle",
+      "name" : "Bankass",
       "localname" : "Cercle de Bankass",
       
       "SRID" : "4326",
@@ -73,7 +73,7 @@
       "rpath" : [ "3084279", "2096899", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Bankass",
-        "name:en" : "Bankass Cercle",
+        "name:en" : "Bankass",
         "name:fr" : "Cercle de Bankass",
         "boundary" : "administrative",
         "wikipedia" : "fr:Cercle de Bankass",
@@ -94,7 +94,7 @@
     "rpath" : [ "3084281", "2096899", "192785", "0" ],
     "properties" : {
       "id" : 3084281,
-      "name" : "Djenné Cercle",
+      "name" : "Djenne",
       "localname" : "Cercle de Djenné",
       
       "SRID" : "4326",
@@ -102,7 +102,7 @@
       "rpath" : [ "3084281", "2096899", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Djenné",
-        "name:en" : "Djenné Cercle",
+        "name:en" : "Djenné",
         "name:fr" : "Cercle de Djenné",
         "boundary" : "administrative",
         "wikipedia" : "fr:Cercle de Djenné",
@@ -123,7 +123,7 @@
     "rpath" : [ "3084280", "2096899", "192785", "0" ],
     "properties" : {
       "id" : 3084280,
-      "name" : "Douentza Cercle",
+      "name" : "Douentza",
       "localname" : "Cercle de Douentza",
       
       "SRID" : "4326",
@@ -131,7 +131,7 @@
       "rpath" : [ "3084280", "2096899", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Douentza",
-        "name:en" : "Douentza Cercle",
+        "name:en" : "Douentza",
         "name:fr" : "Cercle de Douentza",
         "boundary" : "administrative",
         "wikipedia" : "fr:Cercle de Douentza",
@@ -152,7 +152,7 @@
     "rpath" : [ "3084282", "2096899", "192785", "0" ],
     "properties" : {
       "id" : 3084282,
-      "name" : "Koro Cercle",
+      "name" : "Koro",
       "localname" : "Cercle de Koro",
       
       "SRID" : "4326",
@@ -160,7 +160,7 @@
       "rpath" : [ "3084282", "2096899", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Koro",
-        "name:en" : "Koro Cercle",
+        "name:en" : "Koro",
         "name:fr" : "Cercle de Koro",
         "boundary" : "administrative",
         "wikipedia" : "fr:Cercle de Koro",
@@ -181,7 +181,7 @@
     "rpath" : [ "3084283", "2096899", "192785", "0" ],
     "properties" : {
       "id" : 3084283,
-      "name" : "Mopti Cercle",
+      "name" : "Mopti",
       "localname" : "Cercle de Mopti",
       
       "SRID" : "4326",
@@ -189,7 +189,7 @@
       "rpath" : [ "3084283", "2096899", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Mopti",
-        "name:en" : "Mopti Cercle",
+        "name:en" : "Mopti",
         "name:fr" : "Cercle de Mopti",
         "boundary" : "administrative",
         "wikipedia" : "fr:Cercle de Mopti",
@@ -210,7 +210,7 @@
     "rpath" : [ "3084284", "2096899", "192785", "0" ],
     "properties" : {
       "id" : 3084284,
-      "name" : "Tenenkou Cercle",
+      "name" : "Tenenkou",
       "localname" : "Cercle de Tenenkou",
       
       "SRID" : "4326",
@@ -218,7 +218,7 @@
       "rpath" : [ "3084284", "2096899", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Tenenkou",
-        "name:en" : "Tenenkou Cercle",
+        "name:en" : "Tenenkou",
         "name:fr" : "Cercle de Tenenkou",
         "boundary" : "administrative",
         "wikipedia" : "fr:Cercle de Tenenkou",
@@ -239,7 +239,7 @@
     "rpath" : [ "3084285", "2096899", "192785", "0" ],
     "properties" : {
       "id" : 3084285,
-      "name" : "Youwarou Cercle",
+      "name" : "Youwarou",
       "localname" : "Cercle de Youwarou",
       
       "SRID" : "4326",
@@ -247,7 +247,7 @@
       "rpath" : [ "3084285", "2096899", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Youwarou",
-        "name:en" : "Youwarou Cercle",
+        "name:en" : "Youwarou",
         "name:fr" : "Cercle de Youwarou",
         "boundary" : "administrative",
         "wikipedia" : "fr:Cercle de Youwarou",

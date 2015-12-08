@@ -36,7 +36,7 @@
     "rpath" : [ "3078991", "2096897", "192785", "0" ],
     "properties" : {
       "id" : 3078991,
-      "name" : "Abeïbara Cercle",
+      "name" : "Abeibara",
       "localname" : "Cercle d'Abeïbara",
       
       "SRID" : "4326",
@@ -44,7 +44,7 @@
       "rpath" : [ "3078991", "2096897", "192785", "0" ],
       "tags" : {
         "name" : "Cercle d'Abeïbara",
-        "name:en" : "Abeïbara Cercle",
+        "name:en" : "Abeïbara",
         "name:fr" : "Cercle d'Abeïbara",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -63,7 +63,7 @@
     "rpath" : [ "3078992", "2096897", "192785", "0" ],
     "properties" : {
       "id" : 3078992,
-      "name" : "Kidal Cercle",
+      "name" : "Kidal",
       "localname" : "Cercle de Kidal",
       
       "SRID" : "4326",
@@ -71,7 +71,7 @@
       "rpath" : [ "3078992", "2096897", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Kidal",
-        "name:en" : "Kidal Cercle",
+        "name:en" : "Kidal",
         "name:fr" : "Cercle de Kidal",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -90,7 +90,7 @@
     "rpath" : [ "3078993", "2096897", "192785", "0" ],
     "properties" : {
       "id" : 3078993,
-      "name" : "Tessalit Cercle",
+      "name" : "Tessalit",
       "localname" : "Cercle de Tessalit",
       
       "SRID" : "4326",
@@ -98,7 +98,7 @@
       "rpath" : [ "3078993", "2096897", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Tessalit",
-        "name:en" : "Tessalit Cercle",
+        "name:en" : "Tessalit",
         "name:fr" : "Cercle de Tessalit",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -117,7 +117,7 @@
     "rpath" : [ "3078994", "2096897", "192785", "0" ],
     "properties" : {
       "id" : 3078994,
-      "name" : "Tin-Essako Cercle",
+      "name" : "Tin-Essako",
       "localname" : "Cercle de Tin-Essako",
       
       "SRID" : "4326",
@@ -125,7 +125,7 @@
       "rpath" : [ "3078994", "2096897", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Tin-Essako",
-        "name:en" : "Tin-Essako Cercle",
+        "name:en" : "Tin-Essako",
         "name:fr" : "Cercle de Tin-Essako",
         "boundary" : "administrative",
         "admin_level" : "6"

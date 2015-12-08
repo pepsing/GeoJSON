@@ -36,7 +36,7 @@
     "rpath" : [ "3083704", "2096896", "192785", "0" ],
     "properties" : {
       "id" : 3083704,
-      "name" : "Bafoulabé Cercle",
+      "name" : "Bafoulabe",
       "localname" : "Bafoulabé",
       
       "SRID" : "4326",
@@ -44,7 +44,7 @@
       "rpath" : [ "3083704", "2096896", "192785", "0" ],
       "tags" : {
         "name" : "Bafoulabé",
-        "name:en" : "Bafoulabé Cercle",
+        "name:en" : "Bafoulabé",
         "name:fr" : "Cercle de Bafoulabé",
         "boundary" : "administrative",
         "wikipedia" : "fr:Cercle de Bafoulabé",
@@ -65,15 +65,15 @@
     "rpath" : [ "3083705", "2096896", "192785", "0" ],
     "properties" : {
       "id" : 3083705,
-      "name" : "Diéma Cercle",
+      "name" : "Diéma",
       "localname" : "Diéma",
       
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3083705", "2096896", "192785", "0" ],
       "tags" : {
-        "name" : "Diéma",
-        "name:en" : "Diéma Cercle",
+        "name" : "Diema",
+        "name:en" : "Diéma",
         "name:fr" : "Cercle de Diéma",
         "boundary" : "administrative",
         "wikipedia" : "fr:Cercle de Diéma",
@@ -94,7 +94,7 @@
     "rpath" : [ "3083706", "2096896", "192785", "0" ],
     "properties" : {
       "id" : 3083706,
-      "name" : "Kayes Cercle",
+      "name" : "Kayes",
       "localname" : "Kayes",
       
       "SRID" : "4326",
@@ -102,7 +102,7 @@
       "rpath" : [ "3083706", "2096896", "192785", "0" ],
       "tags" : {
         "name" : "Kayes",
-        "name:en" : "Kayes Cercle",
+        "name:en" : "Kayes",
         "name:fr" : "Cercle de Kayes",
         "boundary" : "administrative",
         "wikipedia" : "fr:Cercle de Kayes",
@@ -123,7 +123,7 @@
     "rpath" : [ "3083708", "2096896", "192785", "0" ],
     "properties" : {
       "id" : 3083708,
-      "name" : "Kéniéba Cercle",
+      "name" : "Kenieba",
       "localname" : "Kéniéba",
       
       "SRID" : "4326",
@@ -131,7 +131,7 @@
       "rpath" : [ "3083708", "2096896", "192785", "0" ],
       "tags" : {
         "name" : "Kéniéba",
-        "name:en" : "Kéniéba Cercle",
+        "name:en" : "Kéniéba",
         "name:fr" : "Cercle de Kéniéba",
         "boundary" : "administrative",
         "wikipedia" : "fr:Cercle de Kéniéba",
@@ -152,7 +152,7 @@
     "rpath" : [ "3083707", "2096896", "192785", "0" ],
     "properties" : {
       "id" : 3083707,
-      "name" : "Kita Cercle",
+      "name" : "Kita",
       "localname" : "Kita",
       
       "SRID" : "4326",
@@ -160,7 +160,7 @@
       "rpath" : [ "3083707", "2096896", "192785", "0" ],
       "tags" : {
         "name" : "Kita",
-        "name:en" : "Kita Cercle",
+        "name:en" : "Kita",
         "name:fr" : "Cercle de Kita",
         "boundary" : "administrative",
         "wikipedia" : "fr:Cercle de Kita",
@@ -181,7 +181,7 @@
     "rpath" : [ "3083709", "2096896", "192785", "0" ],
     "properties" : {
       "id" : 3083709,
-      "name" : "Nioro Cercle",
+      "name" : "Nioro",
       "localname" : "Nioro",
       
       "SRID" : "4326",
@@ -189,7 +189,7 @@
       "rpath" : [ "3083709", "2096896", "192785", "0" ],
       "tags" : {
         "name" : "Nioro",
-        "name:en" : "Nioro Cercle",
+        "name:en" : "Nioro",
         "name:fr" : "Cercle de Nioro",
         "boundary" : "administrative",
         "wikipedia" : "fr:Cercle de Nioro",
@@ -210,7 +210,7 @@
     "rpath" : [ "3083710", "2096896", "192785", "0" ],
     "properties" : {
       "id" : 3083710,
-      "name" : "Yélimané Cercle",
+      "name" : "Yelimane",
       "localname" : "Yélimané",
       
       "SRID" : "4326",
@@ -218,7 +218,7 @@
       "rpath" : [ "3083710", "2096896", "192785", "0" ],
       "tags" : {
         "name" : "Yélimané",
-        "name:en" : "Yélimané Cercle",
+        "name:en" : "Yélimané",
         "name:fr" : "Cercle de Yélimané",
         "boundary" : "administrative",
         "wikipedia" : "fr:Cercle de Yélimané",

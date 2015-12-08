@@ -7,18 +7,18 @@
     "rpath" : [ "2096901", "192785", "0" ],
     "properties" : {
       "id" : 2096901,
-      "name" : "Ségou",
-      "localname" : "Ségou",
+      "name" : "Segou",
+      "localname" : "Segou",
       
       "SRID" : "4326",
       "admin_level" : 4,
       "rpath" : [ "2096901", "192785", "0" ],
       "tags" : {
-        "name" : "Ségou",
+        "name" : "Segou",
         "name:ru" : "Сегу",
         "boundary" : "administrative",
         "ISO3166-2" : "ML-4",
-        "wikipedia" : "fr:Région de Ségou",
+        "wikipedia" : "fr:Région de Segou",
         "admin_level" : "4",
         "border_type" : "region"
       }
@@ -36,7 +36,7 @@
     "rpath" : [ "3085044", "2096901", "192785", "0" ],
     "properties" : {
       "id" : 3085044,
-      "name" : "Baraouéli Cercle",
+      "name" : "Baroueli",
       "localname" : "Cercle de Baraouéli",
       
       "SRID" : "4326",
@@ -44,7 +44,7 @@
       "rpath" : [ "3085044", "2096901", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Baraouéli",
-        "name:en" : "Baraouéli Cercle",
+        "name:en" : "Baraouéli",
         "name:fr" : "Cercle de Baraouéli",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -63,7 +63,7 @@
     "rpath" : [ "3085045", "2096901", "192785", "0" ],
     "properties" : {
       "id" : 3085045,
-      "name" : "Bla Cercle",
+      "name" : "Bla",
       "localname" : "Cercle de Bla",
       
       "SRID" : "4326",
@@ -71,7 +71,7 @@
       "rpath" : [ "3085045", "2096901", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Bla",
-        "name:en" : "Bla Cercle",
+        "name:en" : "Bla",
         "name:fr" : "Cercle de Bla",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -90,7 +90,7 @@
     "rpath" : [ "3085046", "2096901", "192785", "0" ],
     "properties" : {
       "id" : 3085046,
-      "name" : "Macina Cercle",
+      "name" : "Macina",
       "localname" : "Cercle de Macina",
       
       "SRID" : "4326",
@@ -98,7 +98,7 @@
       "rpath" : [ "3085046", "2096901", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Macina",
-        "name:en" : "Macina Cercle",
+        "name:en" : "Macina",
         "name:fr" : "Cercle de Macina",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -117,7 +117,7 @@
     "rpath" : [ "3085047", "2096901", "192785", "0" ],
     "properties" : {
       "id" : 3085047,
-      "name" : "Niono Cercle",
+      "name" : "Niono",
       "localname" : "Cercle de Niono",
       
       "SRID" : "4326",
@@ -125,7 +125,7 @@
       "rpath" : [ "3085047", "2096901", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Niono",
-        "name:en" : "Niono Cercle",
+        "name:en" : "Niono",
         "name:fr" : "Cercle de Niono",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -144,7 +144,7 @@
     "rpath" : [ "3085048", "2096901", "192785", "0" ],
     "properties" : {
       "id" : 3085048,
-      "name" : "San Cercle",
+      "name" : "San",
       "localname" : "Cercle de San",
       
       "SRID" : "4326",
@@ -152,7 +152,7 @@
       "rpath" : [ "3085048", "2096901", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de San",
-        "name:en" : "San Cercle",
+        "name:en" : "San",
         "name:fr" : "Cercle de San",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -171,16 +171,16 @@
     "rpath" : [ "3085049", "2096901", "192785", "0" ],
     "properties" : {
       "id" : 3085049,
-      "name" : "Ségou Cercle",
-      "localname" : "Cercle de Ségou",
+      "name" : "Segou",
+      "localname" : "Cercle de Segou",
       
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3085049", "2096901", "192785", "0" ],
       "tags" : {
-        "name" : "Cercle de Ségou",
-        "name:en" : "Ségou Cercle",
-        "name:fr" : "Cercle de Ségou",
+        "name" : "Cercle de Segou",
+        "name:en" : "Segou",
+        "name:fr" : "Cercle de Segou",
         "boundary" : "administrative",
         "admin_level" : "6"
       }
@@ -198,7 +198,7 @@
     "rpath" : [ "3085050", "2096901", "192785", "0" ],
     "properties" : {
       "id" : 3085050,
-      "name" : "Tominian Cercle",
+      "name" : "Tominian",
       "localname" : "Cercle de Tominian",
       
       "SRID" : "4326",
@@ -206,7 +206,7 @@
       "rpath" : [ "3085050", "2096901", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Tominian",
-        "name:en" : "Tominian Cercle",
+        "name:en" : "Tominian",
         "name:fr" : "Cercle de Tominian",
         "boundary" : "administrative",
         "admin_level" : "6"

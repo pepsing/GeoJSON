@@ -34,14 +34,14 @@
     "rpath" : [ "3079410", "2096902", "192785", "0" ],
     "properties" : {
       "id" : 3079410,
-      "name" : "Diré Cercle",
+      "name" : "Dire",
       "localname" : "Cercle de Diré",
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3079410", "2096902", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Diré",
-        "name:en" : "Diré Cercle",
+        "name:en" : "Diré",
         "name:fr" : "Cercle de Diré",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -59,14 +59,14 @@
     "rpath" : [ "3079411", "2096902", "192785", "0" ],
     "properties" : {
       "id" : 3079411,
-      "name" : "Goundam Cercle",
+      "name" : "Goundam",
       "localname" : "Cercle de Goundam",
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3079411", "2096902", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Goundam",
-        "name:en" : "Goundam Cercle",
+        "name:en" : "Goundam",
         "name:fr" : "Cercle de Goundam",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -84,14 +84,14 @@
     "rpath" : [ "3079414", "2096902", "192785", "0" ],
     "properties" : {
       "id" : 3079414,
-      "name" : "Gourma-Rharous Cercle",
+      "name" : "Gourma-Rharous",
       "localname" : "Cercle Gourma-Rharous",
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3079414", "2096902", "192785", "0" ],
       "tags" : {
         "name" : "Cercle Gourma-Rharous",
-        "name:en" : "Gourma-Rharous Cercle",
+        "name:en" : "Gourma-Rharous",
         "name:fr" : "Cercle de Gourma-Rharous",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -109,14 +109,14 @@
     "rpath" : [ "3079412", "2096902", "192785", "0" ],
     "properties" : {
       "id" : 3079412,
-      "name" : "Niafounké Cercle",
+      "name" : "Niafunke",
       "localname" : "Cercle de Niafounké",
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3079412", "2096902", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Niafounké",
-        "name:en" : "Niafounké Cercle",
+        "name:en" : "Niafounké",
         "name:fr" : "Cercle de Niafounké",
         "boundary" : "administrative",
         "admin_level" : "6"
@@ -134,14 +134,14 @@
     "rpath" : [ "3079413", "2096902", "192785", "0" ],
     "properties" : {
       "id" : 3079413,
-      "name" : "Tombouctou Cercle",
+      "name" : "Tombouctou",
       "localname" : "Cercle de Tombouctou",
       "SRID" : "4326",
       "admin_level" : 6,
       "rpath" : [ "3079413", "2096902", "192785", "0" ],
       "tags" : {
         "name" : "Cercle de Tombouctou",
-        "name:en" : "Tombouctou Cercle",
+        "name:en" : "Tombouctou",
         "name:fr" : "Cercle de Tombouctou",
         "boundary" : "administrative",
         "admin_level" : "6"
